@@ -1,3 +1,4 @@
-pwd (Present working directory)
-ls (list) Shows all files and folders in current folder
-mkdir (make directory) No special characters / spaces/ capital letters
+- pwd (Present working directory)
+- ls (list) Shows all files and folders in current folder
+- mkdir (make directory) No special characters / spaces/ capital letters
+- code. (opens VScode in dir)
