@@ -6,7 +6,7 @@ My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a N
 - https://github.com/bwolf7
 
 ## Table of Conents
-- [Reading Notes](notes.md)
+- [Reading Notes 1](notes.md)
 
 ### What is a Growth Mindset? 2/5 
 There are many challenges when it comes to learning and having a growth mindset means you are willing to take them on.
