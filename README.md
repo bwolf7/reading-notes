@@ -6,8 +6,11 @@ My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a N
 - https://github.com/bwolf7
 
 ## Table of Conents
-- [Reading Notes 1](notes.md)
-- [Scratch Notes](scratch_notes.md)
+- [Day 1 Notes](notes.md)
+- [Day 2 Notes]()
+- [Day 3 Notes]()
+- [Day 4 Notes]()
+- [Day 5 Notes]()
 
 ### What is a Growth Mindset? 2/5 
 There are many challenges when it comes to learning and having a growth mindset means you are willing to take them on.
@@ -29,6 +32,8 @@ var brandonIsCool = true
 
 ## Señor Padre 5/5 
 ![Tatis](https://static01.nyt.com/images/2021/02/19/sports/19kepner-padres-print1/18kepner-padres-1-mediumSquareAt3X.jpg) 
+
+- [Scratch Notes](scratch_notes.md)
 
 
 
