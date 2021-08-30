@@ -2,3 +2,8 @@
 - ls (list) Shows all files and folders in current folder
 - mkdir (make directory) No special characters / spaces/ capital letters
 - code. (opens VScode in dir)
+- cd.. (goes back one dir)
+- cp (copy) takes two arguments what you are copying and where is it going 
+- . (here)
+- rm (remove) 
+- mv (move) used like the copy command
