@@ -12,9 +12,10 @@ There are many challenges when it comes to learning and having a growth mindset 
 - 3. Celebrate the completion. 
 
 ## A Quote 3/5 
-> "Took you thoughts and penciled' them in,
+> Took you thoughts and penciled' them in,
 Should've wrote 'em down in pen, 
-And maybe they'll come to life" - Kanye West 2021 
+And maybe they'll come to life - Kanye West 2021 
+
 
 ## A quick fact 4/5
 
