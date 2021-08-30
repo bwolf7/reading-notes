@@ -31,6 +31,16 @@ var brandonIsCool = true
 ![Tatis](https://static01.nyt.com/images/2021/02/19/sports/19kepner-padres-print1/18kepner-padres-1-mediumSquareAt3X.jpg) 
 
 
-*test
+* test
 
-&test
+& test
+
+*test*
+
+**test**
+
+>test
+
+# test
+
+'test'
