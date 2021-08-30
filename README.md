@@ -1,5 +1,5 @@
 #Intro 
-intro and link to github 
+intro and https://github.com/bwolf7
 # This is my reading notes repo (Heading 1)
 
 ### Growth Mindest to me is (Heading 3) 
