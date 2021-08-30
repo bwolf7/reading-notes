@@ -1,4 +1,4 @@
-# Intro // 1/5
+# Intro 1/5
 
 Hello world,
 My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a Navy veteran with 5 years of service as an Aviation Electronics Technician. I was stationed in Virginia Beach, Va for all 5 years where I saw one deployment on the USS Harry S. Truman. I left active duty to pursue a career in tech while I continue my duties as an IT1 in the naval reserves. I attended Microsoft Software and Systems Academy when first transitioning out where I grew a fascination with the Cloud and its vast limitations, specifically with Azure's ability to adapt to new technologies like Blockchain and AI.
@@ -16,7 +16,7 @@ There are many challenges when it comes to learning and having a growth mindset 
 
 
 ## Meme (Heading 2) 
-![m'lady](https://i.imgur.com/v8IVDka.jpg) 
+![Tatis](https://static01.nyt.com/images/2021/02/19/sports/19kepner-padres-print1/18kepner-padres-1-mediumSquareAt3X.jpg) 
 
 ```js
 var brandonIsCool = true
