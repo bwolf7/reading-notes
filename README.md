@@ -6,7 +6,7 @@ My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a N
 - https://github.com/bwolf7
 
 ## Table of Conents
-- [Day 1 Notes](notes.md)
+- [Day 1 Notes](readin_notes_day1.md)
 - [Day 2 Notes]()
 - [Day 3 Notes]()
 - [Day 4 Notes]()
