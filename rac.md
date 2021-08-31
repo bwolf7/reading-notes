@@ -8,11 +8,14 @@ Review Changes
 
 Sync: 
 Add 
+- `git clone (link)`
+-  `git add (file name)`
+- `git status` 
+
 Commit
-Push 
+- `git commit -m "message goes here" `
+- `git status`
 
-git add namefile
-git commit -b "message"
-git push oringmain 
-
-**git clone (link)**
+Push
+- `git push origin main`
+- **refresh github**
