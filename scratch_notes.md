@@ -7,3 +7,4 @@
 - . (here)
 - rm (remove) 
 - mv (move) used like the copy command
+- touch (makes new file)
