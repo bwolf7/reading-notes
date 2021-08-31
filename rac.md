@@ -14,3 +14,5 @@ Push
 git add namefile
 git commit -b "message"
 git push oringmain 
+
+**git clone (link)**
