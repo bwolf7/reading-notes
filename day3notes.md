@@ -1,3 +1,3 @@
 # Day 3 Notes
 - [CSS](css.md)
-- [JS]()
+- [JS](JSnotes.md)
