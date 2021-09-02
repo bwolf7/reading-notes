@@ -9,7 +9,7 @@ My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a N
 - [Day 1 Notes](readin_notes_day1.md)
 - [Day 2 Notes](day2notes.md)
 - [Day 3 Notes](day3notes.md)
-- [Day 4 Notes]()
+- [Day 4 Notes](day4notes.md)
 - [Day 5 Notes]()
 
 - [What Growth Mindset is to me](growthmindset.md)
