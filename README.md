@@ -6,8 +6,8 @@ My name is Brandon Wolf. I am 25 years old living in Newport Beach, CA. I am a N
 - [Github](https://github.com/bwolf7)
 
 ## Table of Conents
-- [102 notes] (102.md)
-- [201 notes] (201.md)
+- [102 notes](102.md)
+- [201 notes](201.md)
 
 - [What Growth Mindset is to me](growthmindset.md)
 - [Scratch Notes](scratch_notes.md)
