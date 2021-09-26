@@ -1,0 +1,6 @@
+# Assorted Topics
+## Images
+Controllong the size and alignment of your images using CSS keeps rules that affect the presentation of your page in the CSS and out of the HTML markup. Imgs can be controlled with width and height like any other box. A standard practice is to keep all your images the same size. Whenever you use consistently sized images across a site, you can use CSS to control the dimensions of the images, instead of putting the dimensions in HTML. Backround images can be placed behind html blocks. They can also be used once or repeated behind all. Rollover effects can be made by moving the background postion of an image. 
+
+## Practical Information
+Search engine optimization helps vistors find your sites when using serch engines. There are some analytics tools such as Google analytics that allow you to see stats of your sites, like howmany people have viewed your site, how long they viewed your site, what pages they go on, the reigon they are searching from, new vs returning customer numbers. SEO and SEM statistics are an important tool to help comunicate with your cilent. Thrid party web-site building apps like Wix incorparate this in their product.  
